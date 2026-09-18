@@ -1,4 +1,4 @@
-package com.example.layug.q2;
+package com.example;
 
 public class Mini_peta_2 {
 
@@ -9,6 +9,7 @@ public class Mini_peta_2 {
         String hobby = "Playing guitar";
         String favoriteFood = "Fried chicken";
         String goal = "My goal in right now is to graduate.\n";
+        String favoritegame = "Persona 5 royal";
 
         System.out.println("===== ABOUT ME =====");
         System.out.println("Name: " + name);
@@ -16,6 +17,8 @@ public class Mini_peta_2 {
         System.out.println("Hobby: " + hobby);
         System.out.println("Favorite Food: " + favoriteFood);
         System.out.println("My Goal: " + goal);
+        System.out.println("My favorite game:  " + favoritegame);
         System.out.println("====================");
+
     }
 }
