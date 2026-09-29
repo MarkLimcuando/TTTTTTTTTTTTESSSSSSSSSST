@@ -1,3 +1,4 @@
+package com.example.daw;
 
 public class Scheduleplanner {
     private String Schedule;
