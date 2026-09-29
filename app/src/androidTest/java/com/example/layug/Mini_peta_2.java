@@ -1,4 +1,4 @@
-package com.example;
+package com.example.layug;
 
 public class Mini_peta_2 {
 
